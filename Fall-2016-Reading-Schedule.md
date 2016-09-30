@@ -2,6 +2,11 @@
 
 | 日期| 分享人 | 论文 | 简介 |
 |:--|:------|:---------|:----|
+| 2016.09.28 | 熊志远 | [Bidirectional Recurrent Convolutional Neural Network for Relation Classification](http://www.aclweb.org/anthology/P/P16/P16-1072.pdf) | [简介](https://zhuanlan.zhihu.com/p/22683996?refer=c_51425207)|
+| 2016.09.28 | 黄凯瑜 | [aclweb](https://www.aclweb.org/anthology/P/P16/P16-1200v2.pdf) | [简介](https://zhuanlan.zhihu.com/p/22666876?refer=c_51425207)|
+| 2016.09.27 | 梁亮 | [Max-Margin DeepWalk: Discriminative Learning of Network Representation](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/ijcai2016_mmdw.pdf) | [简介](https://zhuanlan.zhihu.com/p/22660025?refer=c_51425207)|
+| 2016.09.27 | 卞维杰 | [SEQUENCE LEVEL TRAINING WITH RECURRENT NEURAL NETWORKS](https://arxiv.org/pdf/1511.06732v7.pdf) | [简介](https://zhuanlan.zhihu.com/p/22649457?refer=c_51425207)|
+| 2016.09.21 | 卞维杰 | [Deep Reinforcement Learning with a Natural Language Action Space](https://arxiv.org/abs/1511.04636) | [简介](https://zhuanlan.zhihu.com/p/22543440?refer=c_51425207)|
 | 16.9.12 | 卞维杰 | [Deep Reinforcement Learning with a Natural Language Action Space](https://arxiv.org/abs/1511.04636) | [简介](https://zhuanlan.zhihu.com/p/22543440) |
 | 16.9.12 | 梁亮 | [Collaborative Filtering with Recurrent Neural Networks](http://arxiv.org/abs/1608.07400) | [简介](https://zhuanlan.zhihu.com/p/22547637) |
 | 16.9.12 | 王梓良 | [A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task](http://nlp.stanford.edu/pubs/chen2016thorough.pdf)| [简介](https://zhuanlan.zhihu.com/p/22685175?refer=c_51425207) |
